@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Help Your Daily</string>
+    <string name="title_activity_pdf_view">PdfViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="s_l_i_d_e"><![CDATA[ < - - - - - - - - - - - - - - - - - - - - - >]]></string>
+    <string name="toast_download_complete">Download Complete</string>
+    <string name="toast_error_page">Error at page: $page</string>
+    <string name="toast_error">Error in downloading file : $error</string>
+    <string name="btn_pdf_web">Pdf Web View</string>
+    <string name="btn_pdf_view_assets">Pdf View Assets</string>
+    <string name="btn_pdf_view_storage">Pdf View Storage</string>
+    <string name="btn_pdf_view_internet">Pdf View Internet</string>
+    <string name="btn_take_file_image">Take File Image</string>
+    <string name="btn_watch_tutorial">Watch Tutorial</string>
+    <string name="txt_main_title_your_daily_read">Your Daily Read</string>
+
+    <string name="charge_plugin">Power Connected</string>
+    <string name="charge_unplugin">Power Unconnected</string>
+</resources>
